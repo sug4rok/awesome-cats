@@ -4,4 +4,4 @@
  |  0  |
  |  |  |
 (___) __)
-Nmae: Murzik
+Name: Murzik
