@@ -6,4 +6,4 @@ Kitten male
 =======
 Name: Vaska
 Age: 3 month
-Color: white
+Color: grey
