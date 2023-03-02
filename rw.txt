@@ -6,3 +6,4 @@
 (___) __)
 Name: Murzik
 Tail: 25 sm
+High: 35 sm
