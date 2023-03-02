@@ -7,4 +7,5 @@ Awesome Cat
 (___) __)
 Name: Murzik
 Age: 3Y11M
+Length: 48 sm
 
