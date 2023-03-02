@@ -7,3 +7,4 @@
 Name: Murzik
 Tail: 25 sm
 Color: stripped
+High: 35 sm
