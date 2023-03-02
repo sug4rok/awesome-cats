@@ -9,4 +9,5 @@ Tail: 25 sm
 Color: stripped
 High: 35 sm
 Vaccination status: Vaccinated
+Nationality: Russian
 
