@@ -5,3 +5,4 @@
  |  |  |
 (___) __)
 Name: Murzik
+Tail: 25 sm
